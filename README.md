@@ -1,4 +1,3 @@
-# news-app-API-
 # 📰 News App - Python Tkinter + NewsAPI
 
 This is a simple and elegant News App built using **Python**, **Tkinter**, and the **NewsAPI.org** service. It fetches live news headlines and displays them in a scrollable GUI.
@@ -18,9 +17,17 @@ This is a simple and elegant News App built using **Python**, **Tkinter**, and t
 ## 📷 Screenshot
 
 ![news-app-screenshot](./screenshot.png)  
-*Add a screenshot of your GUI here*
+*Make sure to upload a screenshot of your GUI and name it `screenshot.png`*
 
 ---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/news-app.git
+   cd news-app
+
 
 ## 🚀 How to Run
 
